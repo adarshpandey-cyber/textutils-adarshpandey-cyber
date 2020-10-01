@@ -1,4 +1,4 @@
-TextUtils
+TextUtils [UPDATED]
 
 Requirements:
 1. You must have python installed.(Install it by going to python.org and downloading its latest version)
